@@ -1,0 +1,280 @@
+id,x,y,park_id,name,address,zip,acres,opened,status,type,img,web
+1,-97.75883915,30.25545673,312,West Bouldin Creek Greenbelt,"1200 S 6th St., Austin, Texas 78704",78704,16.86731362,,Open,Greenbelt,bouldingreenbelt.jpg,https://www.austinparks.org/parks/west-bouldin-creek-greenbelt/
+2,-97.78953227,30.42900167,214,Mountain View Neighborhood Park,"9000 Middlebie Rd., Austin, Texas 78750",78750,8.27796311,1997,Open,Neighborhood,mountainview.jpg,https://www.austinparks.org/parks/
+3,-97.67498937,30.27766276,217,Norman School Park,"3901 Tannehill Ln., Austin, Texas 78721",78721,7.08904959,1975,Open,School,no.jpg,https://www.austinparks.org/parks/
+4,-97.78069465,30.359748,218,North Cat Mountain Greenbelt,"6801 Cat Creek Trl., Austin, Texas 78731",78731,30.71661354,1986,Open_Restricted,Greenbelt,northcatmountain.jpg,https://www.austinparks.org/parks/
+5,-97.73599541,30.23398562,388,Heritage Oaks Neighborhood Park,"2100 Parker Ln., Austin, Texas 78741",78741,3.53193169,2011,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+6,-97.6999759,30.33286643,281,St. John's Pocket Park,"889 Wilks Ave., Austin, Texas 78752",78752,0.86356904,1964,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+7,-97.68422161,30.42470236,310,Wells Creek Greenbelt,"13120 Metric Blvd., Austin, Texas 78727",78727,9.24365862,1991,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/wells-creek-greenbelt/
+8,-97.74728495,30.37682359,178,Hill School Park,"8405 Tallwood Dr., Austin, Texas 78759",78759,4.70107593,1975,Open,School,no.jpg,https://www.austinparks.org/parks/
+9,-97.66304692,30.47292007,276,Springbrook Driving Range,"1800 Picadilly Rd., Pflugerville, Texas 78664",78664,53.57897418,1988,Open_Fee,Special,no.jpg,https://www.austinparks.org/parks/
+10,-97.75856024,30.29517274,361,Hartford Planting Strip,"2516 Hartford Rd., Austin, Texas 78703",78703,1.72721253,1969,Closed,Planting Strips/Triangles,no.jpg,https://www.austinparks.org/parks/
+11,-97.74688768,30.25165564,360,The Circle ROW Greenbelt,"1300 The Circle, Austin, Texas 78704",78704,1.20806081,2008,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+12,-97.73333429,30.31347795,365,Triangle Commons Neighborhood Park,"722 W 46th St., Austin, Texas 78751",78751,6.0218528,2005,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+13,-97.78522838,30.23447446,272,South Austin Senior Activity Center,"3911 Manchaca Rd., Austin, Texas 78704",78704,4.52988616,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+14,-97.7806245,30.43061525,288,Tanglewood Neighborhood Park,"11409 Rustic Rock Rd., Austin, Texas 78750",78750,14.12046488,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+15,-97.68965268,30.2779001,396,Plummers Cemetery,"1150 Blk of Springdale Rd., Austin, Texas 78721",78721,7.12815852,,Open_Restricted,Cemetery,no.jpg,https://www.austinparks.org/parks/
+16,-97.65102145,30.3947847,398,Oertli Neighborhood Park,"12613 Blaine Rd., Austin, Texas 78753",78753,6.13351119,2013,Planned,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+17,-97.7421783,30.15544328,171,Grand Meadow Neighborhood Park,"8022 Thaxton Dr., Austin, Texas 78747",78747,9.99401021,1988,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+18,-97.74335364,30.24708331,194,Little Stacy Neighborhood Park,"1500 Alameda Dr., Austin, Texas 78704",78704,6.86158307,1929,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+19,-97.76921913,30.41753092,226,Oakview Neighborhood Park,"10902 Oak View Dr., Austin, Texas 78759",78759,6.97521809,1981,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+20,-97.83260569,30.19351612,346,Piney Bend Neighborhood Park,"8601 Piney Creek Bnd., Austin, Texas 78745",78745,4.20313079,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+21,-97.72237551,30.27551688,395,Oakwood Annex Cemetery,"1509 E MLK Jr Blvd., Austin, Texas 78702",78702,18.57673301,,Open_Restricted,Cemetery,no.jpg,https://www.austinparks.org/parks/
+22,-97.6990881,30.2376668,260,Roy G. Guerrero Colorado River Metro Park,"400 Grove Blvd., Austin, Texas 78741",78741,399.4665827,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+23,-97.78771016,30.29201345,251,Red Bud Isle,"3401 Red Bud Trl., Austin, Texas 78746",78746,17.49307899,,Open,Special,no.jpg,https://www.austinparks.org/parks/red-bud-isle/
+24,-97.74898954,30.26450549,299,Shoal Beach at Town Lake Metro Park,"707 W Cesar Chavez St., Austin, Texas 78701",78701,15.11517868,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+25,-97.78098508,30.44956971,387,Springwoods Neighborhood Park,"9117 Anderson Mill Rd., Austin, Texas 78729",78729,12.45145586,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+26,-97.74789801,30.26754902,255,Republic Square,"422 Guadalupe St., Austin, Texas 78701",78701,1.74910215,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+27,-97.78765933,30.40467121,417,Maggie Boatright Area of the Bull Creek Greenbelt,"6958 Spicewood Springs Rd., Austin, Texas 78759",78759,8.99115991,1996,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+28,-97.74882059,30.27717578,381,Heath Eiland and Morgan Moss BMX Skate Park,"1213 Shoal Creek Blvd., Austin, Texas 78701",78701,1.55637564,1931,Open,Special,no.jpg,https://www.austinparks.org/parks/
+29,-97.75642352,30.1965727,179,Houston School Park,"5506 Tallow Tree Dr., Austin, Texas 78744",78744,8.56149739,1977,Open,School,no.jpg,https://www.austinparks.org/parks/
+30,-97.71381696,30.24913273,297,Longhorn Shores at Town Lake Metro Park,"60 S Pleasant Valley Rd., Austin, Texas 78741",78741,10.63606158,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+31,-97.76641625,30.24189455,273,South Austin Tennis Center,"1008 Cumberland Rd., Austin, Texas 78704",78704,12.02104172,1980,Open,Special,no.jpg,https://www.austinparks.org/parks/
+32,-97.76851196,30.24093604,270,South Austin Neighborhood Park,"1100 Cumberland Rd., Austin, Texas 78704",78704,11.78783965,1964,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+33,-97.68869004,30.29886553,401,Tannehill Creek Greenbelt,"2403 E 51st St., Austin, Texas 78723",78723,4.58490029,2012,Planned,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+34,-97.75728428,30.35525784,215,Murchison Pool,"7022 Hart Ln., Austin, Texas 78731",78731,1.15258138,1973,Open,Special,no.jpg,https://www.austinparks.org/parks/
+35,-97.76421711,30.2885315,313,Westenfield Neighborhood Park,"2008 Enfield Rd., Austin, Texas 78703",78703,4.94370761,1937,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+36,-97.77231727,30.27353502,371,Zilker Nature Preserve,"301 Nature Center Dr., Austin, Texas 78746",78746,77.39090711,,Open,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+37,-97.7598564,30.2959108,289,Tarrytown Neighborhood Park,"2106 Tower Dr., Austin, Texas 78703",78703,2.2483171,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+38,-97.7696273,30.20890471,315,Williamson Creek Central Greenbelt,"5120 S 1st St., Austin, Texas 78745",78745,91.22899701,,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+39,-97.77204717,30.27705581,372,Veterans Pocket Park,"2200 Veterans Dr., Austin, Texas 78703",78703,0.67361979,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+40,-97.67587015,30.30204333,241,Pecan Springs School Park,"3312 Rogge Ln., Austin, Texas 78723",78723,4.14967352,1976,Open,School,no.jpg,https://www.austinparks.org/parks/
+41,-97.7786532,30.18097767,274,South Boggy Creek Greenbelt,"7701 Circle S Rd., Austin, Texas 78745",78745,8.54716954,1974,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+42,-97.60968569,30.20003986,233,Onion Creek Wildlife Sanctuary,"4435 E SH 71, Austin, Texas 78617",78617,178.4575747,1984,Open_Restricted,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+43,-97.80830636,30.13241193,402,Wunneburger Park,"11901 Old San Antonio Rd., Austin, Texas 78652",78652,23.51482153,2014,Open,Special,no.jpg,https://www.austinparks.org/parks/
+44,-97.78312501,30.29790667,307,Walsh Boat Landing,"1600 Scenic Dr., Austin, Texas 78703",78703,3.92369047,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+45,-97.75020171,30.26122986,410,Vic Mathias Shores at Town Lake Metro Park,"700 W Riverside Dr., Austin, Texas 78704",78704,5.76681669,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+46,-97.74007981,30.25963616,300,Waller Beach at Town Lake Metro Park,"30 East Ave., Austin, Texas 78701",78701,28.3916353,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+47,-97.78801484,30.28454083,412,Stratford Overlook Greenbelt,"3006 Stratford Dr., Austin, Texas 78746",78746,0.10108542,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+48,-97.73478836,30.27087069,304,Waller Creek Greenbelt,"703 E 6th St., Austin, Texas 78701",78701,4.25945033,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+49,-97.76568272,30.26892023,324,Zilker Metro Park,"2100 Barton Springs Rd., Austin, Texas 78746",78746,307.8490662,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+50,-97.68599113,30.40621373,306,Walnut Creek Metro Park,"12138 N Lamar Blvd, Austin, Texas 78758",78758,290.5205134,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+51,-97.64078543,30.31738123,350,Walnut Creek Sports Park,"7800 Johnny Morris Rd., Austin, Texas 78724",78724,227.9681198,,Open_Fee,Special,no.jpg,https://www.austinparks.org/parks/
+52,-97.71109848,30.27111604,208,Millennium Center,"1156 Hargrave St., Austin, Texas 78702",78702,5.31741344,1998,Open,Special,no.jpg,https://www.austinparks.org/parks/
+53,-97.74156725,30.27194959,228,Old Bakery,"1006 Congress Ave., Austin, Texas 78701",78701,0.31203828,1980,Open_Restricted,Special,no.jpg,https://www.austinparks.org/parks/
+54,-97.79190367,30.18138087,314,Williams School Park,"605 Blue Valley Dr., Austin, Texas 78748",78748,9.89939887,1981,Open,School,no.jpg,https://www.austinparks.org/parks/
+55,-97.81334609,30.13338352,391,Old San Antonio Park,"12110 Old San Antonio Rd., Austin, Texas 78652",78652,55.20027541,2012,Open_Restricted,Special,no.jpg,https://www.austinparks.org/parks/
+56,-97.74257722,30.31396106,250,Ramsey Neighborhood Park,"4301 Rosedale Ave., Austin, Texas 78756",78756,5.26800149,1933,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+57,-97.75474573,30.20189111,248,Ponciana Neighborhood Park,"5201 Freidrich Ln., Austin, Texas 78744",78744,5.22439602,1986,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+58,-97.72344321,30.27125971,185,Kealing School Park,"1500 Rosewood Ave., Austin, Texas 78702",78702,14.91436275,1967,Open,School,no.jpg,https://www.austinparks.org/parks/
+59,-97.73401647,30.25705083,262,Sanchez School Park,"64 Waller St., Austin, Texas 78702",78702,1.14642066,1990,Open,School,no.jpg,https://www.austinparks.org/parks/
+60,-97.77215351,30.30580922,252,Reed Neighborhood Park,"2614 Pecos St., Austin, Texas 78703",78703,6.35935429,1954,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+61,-97.72252527,30.29972321,175,Hancock Golf Course,"811 E 41st St., Austin, Texas 78751",78751,50.39607807,1946,Open_Fee,Golf Course,no.jpg,https://www.austinparks.org/parks/
+62,-97.82886507,30.21236687,283,Stephenson Nature Preserve & Outdoor Education Center,"7501 Longview Rd., Austin, Texas 78745",78745,147.0677952,1999,Open_Restricted,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+63,-97.70913193,30.29559341,239,Patterson Neighborhood Park,"4200 Brookview Rd., Austin, Texas 78722",78722,9.3088723,1941,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+64,-97.75674494,30.27719685,311,West Austin Neighborhood Park,"1317 W 10th St., Austin, Texas 78703",78703,3.31956766,1929,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+65,-97.78897134,30.2052197,227,Odom School Park,"1001 Sahara Ave., Austin, Texas 78745",78745,4.25245639,1976,Open,School,no.jpg,https://www.austinparks.org/parks/
+66,-97.84343273,30.22925821,409,Westcreek Pocket Park,"6044 Westcreek Dr., Austin, Texas 78749",78749,1.29318725,2014,Planned,Pocket,no.jpg,https://www.austinparks.org/parks/
+67,-97.75266572,30.28845507,133,Caswell Tennis Center,"2312 Shoal Creek Blvd., Austin, Texas 78705",78705,3.10009104,1931,Open_Fee,Special,no.jpg,https://www.austinparks.org/parks/
+68,-97.62124355,30.16600273,406,Dry Creek Greenbelt,"6100 Constellation Cir., Austn, Texas 78617",78617,7.7835535,2013,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+69,-97.74003274,30.34817404,119,Beverly S. Sheffield Northwest District Park,"7000 Ardath St., Austin, Texas 78757",78757,31.54958373,1955,Open,District,no.jpg,https://www.austinparks.org/parks/
+70,-97.75006072,30.23106997,123,Blunn Creek Nature Preserve,"1200 St. Edwards Dr., Austin, Texas 78704",78704,38.80567647,1982,Open,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+71,-97.67476062,30.25902005,399,Bolm Road District Park,"6700 Bolm Rd., Austin, Texas 78725",78725,67.09976873,2013,Planned,District,no.jpg,https://www.austinparks.org/parks/
+72,-97.76457726,30.26384442,302,Umlauf Sculpture Garden,"605 Robert E Lee Rd., Austin, Texas 78704",78704,7.66627234,1985,Open_Fee,Special,no.jpg,https://www.austinparks.org/parks/
+73,-97.83369421,30.22287964,317,Williamson Creek West Greenbelt,"6310 Brush Country Rd., Austin, Texas 78749",78749,76.25644663,,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+74,-97.70847124,30.36338921,318,Wooldridge School Park,"1410 Norseman Ter., Austin, Texas 78758",78758,9.06898355,,Open,School,no.jpg,https://www.austinparks.org/parks/
+75,-97.74614695,30.27220683,319,Wooldridge Square,"900 Guadalupe St., Austin, Texas 78701",78701,1.73260663,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+76,-97.76484896,30.18181601,186,Kendra Page Neighborhood Park,"2203 Blue Meadow Dr., Austin, Texas 78744",78744,15.2684482,1987,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+77,-97.6518837,30.15876533,229,Stoney Ridge Neighborhood Park,"7000 Moores Crossing Blvd., Austin, Texas 78617",78617,3.92503331,2003,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+78,-97.70003701,30.23676868,321,Yates Pocket Park,"6015 Felix Ave., Austin, Texas 78741",78741,0.93228128,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+79,-97.68372554,30.26979902,235,Ortega School Park,"5308 Chico St., Austin, Texas 78721",78721,4.23478002,1967,Open,School,no.jpg,https://www.austinparks.org/parks/
+80,-97.77421022,30.25167848,323,Little Zilker Neighborhood Park,"2016 Bluebonnet Ln., Austin, Texas 78704",78704,3.95633916,1961,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+81,-97.70054389,30.28589671,180,J.J. Seabrook Greenbelt,"2000 Pershing Dr., Austin, Texas 78723",78723,2.90116414,1959,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+82,-97.74771432,30.32973131,411,Gilbert-Davis Tract,"5512 Shoal Creek Blvd., Austin, Texas 78731",78731,4.46520249,,Open_Restricted,Special,no.jpg,https://www.austinparks.org/parks/
+83,-97.8121939,30.47521955,188,Lakeline Neighborhood Park,"2701 S Lakeline Blvd., Austin, Texas 78613",78613,10.30891422,1987,Open_Restricted,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+84,-97.76336736,30.37280901,284,Stillhouse Hollow Nature Preserve,"7810 Sterling Dr., Austin, Texas 78731",78731,20.32955139,1992,Open,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+85,-97.71260629,30.33685487,413,Highland Neighborhood Park,"403 W St Johns Ave., Austin, Texas 78752",78752,0.24080216,2014,Planned,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+86,-97.68280288,30.27883002,277,Springdale Neighborhood Park,"1175 Nickols Ave., Austin, Texas 78721",78721,16.36640913,1955,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+87,-97.7981883,30.13622664,374,Old San Antonio Greenbelt,"11705 Old San Antonio Rd., Austin, Texas 78748",78748,28.38317435,2009,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+88,-97.68283307,30.35482531,174,"Gustavo ""Gus"" L. Garcia District Park","1201 E Rundberg Ln., Austin, Texas 78753",78753,47.7178504,1993,Open,District,no.jpg,https://www.austinparks.org/parks/
+89,-97.76174409,30.28209075,177,Haskell House,"1705 Waterston St., Austin, Texas 78703",78703,0.23808753,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+90,-97.66603539,30.26007668,397,Knollwood Neighborhood Park,"7503 Shelton Rd., Austin, Texas 78725",78725,8.44498096,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+91,-97.72443218,30.27013296,132,George Washington Carver Museum,"1161 Angelina St., Austin, Texas 78702",78702,0.29825221,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+92,-97.68965268,30.2779001,167,Givens District Park,"3811 E 12th St., Austin, Texas 78721",78721,41.43280472,,Open,District,no.jpg,https://www.austinparks.org/parks/
+93,-97.84795058,30.19813626,184,Goat Cave Karst Nature Preserve,"3900 Deer Ln., Austin, Texas 78749",78749,8.40198179,,Open_Restricted,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+94,-97.71894071,30.25207704,207,Metz Neighborhood Park,"2407 Canterbury St., Austin, Texzas 78702",78702,6.54525012,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+95,-97.72204463,30.24457909,295,Lakeshore at Town Lake Metro Park,"2200 S Lakeshore Blvd., Austin, Texas 78741",78741,3.28252585,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+96,-97.71802517,30.2518167,294,Holly Shores at Town Lake Metro Park,"2711 Canterbury St., Austin, Texas 78702",78702,6.37534445,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+97,-97.76873969,30.2724176,296,Lamar Beach at Town Lake Metro Park,"1200 W Cesar Chavez St., Austin, Texas 78703",78703,65.40901382,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+98,-97.7376097,30.41208187,264,Hubert C. Schroeter Neighborhood Park,"11701 Big Trl., Austin, Texas 78759",78759,12.06447633,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+99,-97.71081057,30.27530203,154,Downs Mabson Fields,"2816 E 12th St., Austin, Texas 78702",78702,10.1413247,1955,Open,Special,no.jpg,https://www.austinparks.org/parks/
+100,-97.86039886,30.20739847,329,Deer Park at Maple Run Preserve,"4929 Davis Ln., Austin, Texas 78749",78749,24.28081009,2006,Closed,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+101,-97.84016386,30.2441894,225,Oakhill Neighborhood Park,"5408 Southwest Pkwy., Austin, Texas 78735",78735,12.69352864,1974,Open_Restricted,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+102,-97.77812137,30.24220778,373,Tom Lasseter-South Lamar Neighborhood Park,"3000 Del Curto Rd., Austin, Texas 78704",78704,2.08904611,2009,Planned,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+103,-97.74828766,30.30714388,366,Seider Springs Greenbelt,"1380 W 34th St., Austin, Texas 78731",78731,4.19075294,1966,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+104,-97.72727463,30.30676479,266,Shipe Neighborhood Park,"4400 Avenue G, Austin, Texas 78751",78751,2.45876512,1929,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+105,-97.73698327,30.27304324,309,Waterloo Neighborhood Park,"500 E 12th St., Austin, Texas 78701",78701,10.00950039,1978,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+106,-97.7609091,30.33234332,242,Perry Neighborhood Park,"4800 Fairview Dr., Austin, Texas 78731",78731,10.3933043,1948,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+107,-97.74866141,30.31460914,415,Gregg Hill Pocket Park,"4105 Jefferson St., Austin, Texas 78731",78731,1.48792078,1975,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+108,-97.76482359,30.28191625,138,Mary Frances Baylor Clarksville Pocket Park,"1811 W 11th St., Austin, Texas 78703",78703,1.48911304,1978,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+109,-97.72760657,30.24618957,363,International Shores at Town Lake Metro Park,"1800 S Lakeshore Blvd., Austin, Texas 78741",78741,6.06263555,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+110,-97.68778113,30.26159786,168,Govalle Neighborhood Park,"5200 Bolm Rd., Austin, Texas 78721",78721,26.26569832,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+111,-97.696329,30.40712705,169,Gracywoods Neighborhood Park,"12133 Metric Blvd., Austin, Texas 78758",78758,21.56701001,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+112,-97.75760802,30.41634298,172,Great Hills Neighborhood Park,"10801 Sierra Oaks, Austin, Texas 78759",78759,76.05124007,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+113,-97.73783142,30.16750383,278,Springfield Neighborhood Park,"6604 E William Cannon Dr., Austin, Texas 78744",78744,97.63470862,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+114,-97.67207112,30.37943676,219,North Oaks Neighbohood Park,"820 Plaza Dr., Austin, Texas 78753",78753,4.66538816,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+115,-97.64707171,30.15356466,230,Old Moore's Crossing Neighborhood Park,"7420 Apperson St., Austin, Texas 78617",78617,11.94186662,2003,Open_Restricted,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+116,-97.8281852,30.20150779,197,Longview Neighborhood Park,"7609 Longview Rd., Austin, Texas 78745",78745,19.62941399,1981,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+117,-97.75244295,30.24153314,271,South Austin Island,"2205 S Congress Ave., Austin, Texas 78704",78704,0.06846614,1935,Open,Special,no.jpg,https://www.austinparks.org/parks/
+118,-97.64021276,30.41245646,414,Janet Long Fish Park,"13840 Dessau Rd., Austin, Texas 78660",78660,27.87235203,2015,Planned,Special,no.jpg,https://www.austinparks.org/parks/
+119,-97.73375278,30.43137303,322,Yett Creek Neighborhood Park,"12538 Riata Vista Cir., Austin, Texas 78727",78727,40.52134912,1989,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+120,-97.69677622,30.39431685,220,North Star Greenbelt,"11701 Tallow Field Way, Austin, Texas 78758",78758,17.61856003,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+121,-97.74157442,30.18026897,234,Onion Creek Soccer Complex,"5600 E William Cannon Dr., Austin, Texas 78744",78744,114.6124011,,Open_Restricted,Special,no.jpg,https://www.austinparks.org/parks/
+122,-97.80144551,30.42570947,222,Northwest Balcones Neighborhood Park,"10225 Talleyran Dr., Austin, Texas 78750",78750,7.17204959,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+123,-97.75044889,30.33432412,223,Northwest Recreation Center,"2913 Northland Dr., Austin, Texas 78731",78731,6.66585983,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+124,-97.73980425,30.25171165,298,Norwood Tract at Town Lake Metro Park,"1009 Edgecliff Ter., Austin, Texas 78704",78704,9.52917438,,Open_Restricted,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+125,-97.77242166,30.31192301,205,Mayfield Nature Preserve,"3801 W 35th St., Austin, Texas 78703",78703,20.54160843,,Open,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+126,-97.72853152,30.27646177,394,Oakwood Cemetery,"1012 E 16th St., Austin, Texas 78702",78702,39.32190897,,Open_Restricted,Cemetery,no.jpg,https://www.austinparks.org/parks/
+127,-97.71109448,30.33992947,380,Meadowview Triangle,"414 W Crestland Dr., Austin, Texas 78752",78752,0.41758451,,Open,Planting Strips/Triangles,no.jpg,https://www.austinparks.org/parks/
+128,-97.89516075,30.1945801,351,Hielscher Tract Greenbelt,"6801 La Crosse Ave., Austin, Texas 78739",78739,66.52715294,2006,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+129,-97.83867076,30.18776763,268,Silk Oak Neighborhood Park,"3204 Silk Oak Dr., Austin, Texas 78748",78748,17.68232301,2010,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+130,-97.70067082,30.36713914,249,Quail Creek Neighborhood Park,"1101 Mearns Meadow Dr., Austin, Texas 78758",78758,16.35704403,1992,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+131,-97.7924313,30.40871513,279,St. Edwards Greenbelt,"7301 Spicewood Springs Rd., Austin, Texas 78750",78750,79.27710263,1986,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+132,-97.73738773,30.35335413,199,Lucy Read School Park,"7509 Silvercrest Dr., Austin, Texas 78757",78757,5.1176263,1975,Open,School,no.jpg,https://www.austinparks.org/parks/
+133,-97.79160593,30.22781927,183,Joslin Neighborhood Park,"2106 Cimaron Trl., Austin, Texas 78745",78745,5.35720767,1953,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+134,-97.71058708,30.34419108,287,T.A. Brown School Park,"520 Northway Dr., Austin, Texas 78752",78752,2.29626505,1953,Open,School,no.jpg,https://www.austinparks.org/parks/
+135,-97.72335832,30.2596861,237,Oswaldo A.B. Cantu/Pan-American Recreation Center,"307 Chicon St., Austin, Texas 78702",78702,5.22503385,1954,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+136,-97.70535134,30.36003945,187,Kennemer Pool,"1031 Payton Gin Rd., Austin, Texas 78758",78758,1.0459874,1974,Open,Special,no.jpg,https://www.austinparks.org/parks/
+137,-97.87313853,30.22276918,191,Legend Oaks Neighborhood Park,"7724 Escarpment Blvd., Austin, Texas 78749",78749,7.28224239,1990,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+138,-97.70126352,30.23223099,209,Montopolis Neighborhood Park,"1200 Montopolis Dr., Austin, Texas 78741",78741,7.59698167,1974,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+139,-97.6857196,30.34812186,195,North Acres Neighborhood Park,"1112 Hermitage Dr., Austin, Texas 78753",78753,2.50464828,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+140,-97.74764071,30.26385013,390,Margaret Hoffman Oak Park,"315 W Cesar Chavez St., Austin, Texas 78701",78701,0.2208668,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+141,-97.66670102,30.30345443,196,Little Walnut Creek District Park,"5100 E 51st St., Austin, Texas 78723",78723,206.6644465,,Open_Restricted,District,no.jpg,https://www.austinparks.org/parks/
+142,-97.75622598,30.25964495,202,Mary Dawson Pocket Park,"650 Dawson Rd., Austin, Texas 78704",78704,0.50515789,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+143,-97.72192489,30.24993105,328,Manuel and Robert Donley Pocket Park,"2301 Haskell St., Austin, Texas 78702",78702,0.38813903,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+144,-97.73008353,30.27138374,198,Lott Pocket Park,"1180 Curve St., Austin, Texas 78702",78702,1.12485569,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+145,-97.7323142,30.29935491,352,Sparky Pocket Park,"3701 Grooms St., Austin, Texas 78705",78705,0.4550046,2008,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+146,-97.82166254,30.43961951,378,Trailhead Neighborhood Park,"10984 Boulder Ln., Austin, Texas 78726",78726,13.63828257,2010,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+147,-97.91460998,30.20827005,192,Lewis Mountain Ranch Neighborhood Park,"8206 Lewis Mountain Dr., Austin, Texas 78737",78737,6.07369985,1989,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+148,-97.74153651,30.42878027,256,Riata Neighborhood Park,"12401 Riata Trace Pkwy., Austin, Texas 78727",78727,8.00648381,2001,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+149,-97.698043,30.34820249,407,Georgian Acres Neighborhood Park,"500 E Powell Ln., Austin, Texas 78753",78753,5.09599964,2014,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+150,-97.64635836,30.29165121,206,Meadows at Trinity Crossing Neighborhood Park,"5900 Sendero Hills Pkwy., Austin, Texas 78724",78724,16.59807962,1995,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+151,-97.73462338,30.15985696,201,Marble Creek Greenbelt,"6605 E William Cannon Dr., Austin, Texas 78744",78744,28.88358193,,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+152,-97.76778451,30.38243899,127,Lower Bull Creek Greenbelt,"7806 N Capital of Texas Hwy., Austin, Texas 78731",78731,125.705914,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+153,-97.73930213,30.22353392,200,Mabel Davis District Park,"3427 Parker Ln., Austin, Texas 78741",78741,53.97237583,,Open,District,no.jpg,https://www.austinparks.org/parks/
+154,-97.6919548,30.23300108,210,Montopolis Practice Fields,"901 Vasquez St., Austin, Texas 78741",78741,4.11257526,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+155,-97.68618015,30.28973766,211,Morris Williams Golf Course,"3851 Manor Rd., Austin, Texas 78723",78723,184.2439206,,Open_Fee,Golf Course,no.jpg,https://www.austinparks.org/parks/
+156,-97.7574941,30.28175266,354,Palma Plaza Triangle Pocket Park,"1524 Palma Plz., Austin, Texas 78703",78703,0.23133212,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+157,-97.73270228,30.36880726,245,Pillow School Park,"8500 Rockwood Ln., Austin, Texas 78757",78757,6.62859478,1966,Open,School,no.jpg,https://www.austinparks.org/parks/
+158,-97.79820594,30.15934018,375,South Park Meadows Greenbelt,"10003 S 1st St., Austin, Texas 78748",78748,46.71348829,2009,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+159,-97.76391974,30.24783997,257,Ricky Guerrero Pocket Park,"2006 S 6th St., Austin, Texas 78704",78704,1.90776495,1970,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+160,-97.75983332,30.24162605,166,Gillis Neighborhood Park,"2410 Durwood Ave., Austin, Texas 78704",78704,6.82793945,1947,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+161,-97.80395277,30.15605484,356,Slaughter Creek at Twin Oaks Greenbelt,"10520 S 1st St., Austin, Texas 78748",78748,11.60525128,2008,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+162,-97.86369138,30.16030607,275,Southland Oaks Neighborhood Park,"3505 Green Emerald Ter., Austin, Texas 78739",78739,18.49679192,1996,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+163,-97.90714319,30.17652485,404,Grey Rock Golf Course,"7401 SH 45 EB, Austin, Texas 78739",78739,290.590833,2014,Open_Restricted,Golf Course,no.jpg,https://www.austinparks.org/parks/
+164,-97.70481928,30.27233622,224,Oak Springs School Park,"2806 Goodwin Ave., Austin, Texas 78702",78702,6.02245948,1964,Open,School,no.jpg,https://www.austinparks.org/parks/
+165,-97.75496554,30.25338272,216,Nicholas Dawson Neighborhood Park,"704 W James St., Austin, Texas 78704",78704,3.29920818,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+166,-97.70144233,30.35809321,382,Payton Gin Pocket Park,"801 Payton Gin Rd., Austin, Texas 78758",78758,0.82321545,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+167,-97.72060681,30.24650036,364,Peace Point at Town Lake Metro Park,"2200 S Lakeshore Blvd., Austin, Texas 78741",78741,5.46668977,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+168,-97.75289317,30.28130195,240,Pease District Park,"1100 Kingsbury St., Austin, Texas  78703",78703,42.68088432,,Open,District,no.jpg,https://www.austinparks.org/parks/
+169,-97.81093921,30.4385988,244,Pickfair Pocket Park,"10904 Pickfair Dr., Austin, Texas 78750",78750,1.2359355,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+170,-97.73706293,30.26325816,236,Sir Swante Palm Neighborhood Park,"200 N IH 35 Svrd SB, Austin, Texas 78701",78701,3.24240255,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+171,-97.70573099,30.36458741,258,Ron Rigsby Pocket Park,"1110 Little Elm Park, Austin, Texas 78758",78758,0.95433837,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+172,-97.71968686,30.32759194,254,Reilly School Park,"6001 Guadalupe St., Austin, Texas 78752",78752,7.17165769,1964,Open,School,no.jpg,https://www.austinparks.org/parks/
+173,-97.712379,30.26334946,238,Parque Zaragoza Neighborhood Park,"2608 Gonzales St., Austin, Texas 78702",78702,15.38511145,1931,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+174,-97.70057161,30.36685293,355,North Austin Recreation Center/YMCA,"1000 W Rundberg Ln., Austin, Texas 78758",78758,7.00079511,2007,Open,Special,no.jpg,https://www.austinparks.org/parks/
+175,-97.71955441,30.35503564,320,Wooten Neighborhood Park,"1500 Dale Dr., Austin, Texas 78757",78757,6.58160113,1954,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+176,-97.80512258,30.16093052,357,Nuckols Crossing of Slaughter Creek Greenbelt,"400 Angel Oak St., Austin, Texas 78748",78748,12.30190679,2008,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+177,-97.72936313,30.27438656,285,Swede Hill Pocket Park,"907 E 14th St., Austin, Texas 78702",78702,0.86839319,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+178,-97.71382773,30.27062281,259,Rosewood Neighborhood Park,"2300 Rosewood Ave., Austin, Texas 78702",78702,14.22276674,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+179,-97.74166201,30.18505273,261,Roy Kizer Golf Course,"5400 Jimmy Clay Dr., Austin, Texas 78744",78744,265.1906574,,Open_Fee,Golf Course,no.jpg,https://www.austinparks.org/parks/
+180,-97.72181581,30.33897653,383,Ryan Planting Strip,"6900 Ryan Dr., Austin, Texas 78757",78757,0.24088698,,Closed,Planting Strips/Triangles,no.jpg,https://www.austinparks.org/parks/
+181,-97.73511556,30.27168144,286,Symphony Square,"1101 Red River St., Austin, Texas 78701",78701,0.48712818,,Open_Restricted,Special,no.jpg,https://www.austinparks.org/parks/
+182,-97.75680616,30.38406419,282,Steck Valley Greenbelt,"8403 Adirondack Trl., Austin, Texas 78759",78759,38.35643094,,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+183,-97.67130541,30.30830842,263,Schieffer Tract,"3404 Hycreek Dr., Austin, Texas 78723",78723,4.35596015,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+184,-97.77258837,30.22185227,280,St. Elmo School Park,"4312 S 1st St., Austin, Texas 78745",78745,5.51527426,,Open,School,no.jpg,https://www.austinparks.org/parks/
+185,-97.68371896,30.42019038,265,Scofield Farms Neighborhood Park,"12901 Scofield Farms Dr., Austin, Texas 78727",78727,25.16562062,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+186,-97.85881754,30.20399368,325,Sendera Mesa Neighborhood Park,"4717 Davis Ln., Austin, Texas 78749",78749,4.61649392,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+187,-97.76583735,30.34417964,384,Shinoak Valley Greenbelt,"3900 Dry Creek Dr., Austin, Texas 78731",78731,10.46021446,,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+188,-97.81177801,30.23812109,163,Gaines Greenbelt,"4800 S Mopac Expy., Austin, Texas 78735",78735,120.9867143,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+189,-97.73931887,30.29510898,100,Adams-Hemphill Neighborhood Park,"201 W 30th St., Austin, Texas  78705",78705,9.9830874,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+190,-97.69529591,30.30470971,113,Bartholomew District Park,"5201 Berkman Dr., Austin, Texas 78723",78723,50.59388057,,Open,District,no.jpg,https://www.austinparks.org/parks/
+191,-97.74444236,30.26026379,290,Auditorium Shores at Town Lake Metro Park,"800 W Riverside Dr., Austin, Texas 78704",78704,48.57836784,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+192,-97.77007003,30.27478373,107,Austin High Tennis Center,"1717 W Cesar Chavez St., Austin, Texas 78703",78703,3.21819298,,Open_Fee,Special,no.jpg,https://www.austinparks.org/parks/
+193,-97.74823644,30.29789368,189,Lamar Senior Activity Center,"2874 Shoal Crest Ave., Austin, Texas 78705",78705,1.98539339,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+194,-97.86538801,30.21145614,149,Dick Nichols District Park,"8011 Beckett Rd., Austin, Texas 78749",78749,135.1562011,,Open,District,no.jpg,https://www.austinparks.org/parks/
+195,-97.7839373,30.46858778,386,Forest North Neighborhood Park,"13320 Lyndhurst St., Austin, Texas 78729",78729,2.25218334,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+196,-97.75780271,30.29664105,362,Hartford Triangle,"1605 Ethridge Ave., Austin, Texas 78703",78703,0.56905296,,Closed,Planting Strips/Triangles,no.jpg,https://www.austinparks.org/parks/
+197,-97.83547441,30.24367972,164,Gaines Creek Neighborhood Park,"4801 Republic of Texas Blvd., Austin, Texas 78735",78735,37.91094609,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+198,-97.75378735,30.26302024,358,Butler Metro Park,"1000 Barton Springs Rd. Austin, Texas 78704",78704,20.70601073,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+199,-97.75054331,30.27870547,108,Austin Recreation Center,"1301 Shoal Creek Blvd., Austin, Texas 78701",78701,5.48733039,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+200,-97.59184156,30.22841405,106,Austin's Colony Neighborhood Park,"14501 Lippincott St. Austin, Texas 78725",78725,9.23403176,,Open_Restricted,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+201,-97.86688253,30.22050288,190,Latta Branch Greenbelt,"7910 Beckett Rd., Austin, Texas 78749",78749,125.7177594,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+202,-97.69737956,30.36086536,111,Barrington School Park,"9306 Glenn Ln., Austin, Texas 78753",78753,7.67750785,,Open,School,no.jpg,https://www.austinparks.org/parks/
+203,-97.78531378,30.42817851,131,Canyon Vista Pool,"8455 Spicewood Springs Rd., Austin, Texas 78750",78750,0.47907723,,Open_Restricted,Special,no.jpg,https://www.austinparks.org/parks/
+204,-97.74232887,30.1874404,153,Dove Springs District Park,"5801 Ainez Dr., Austin, Texas 78744",78744,72.42885468,,Open,District,no.jpg,https://www.austinparks.org/parks/
+205,-97.71502709,30.34129112,118,Crestland Triangle,"715 W Crestland Dr., Austin, Texas 78752",78752,0.45698748,,Open,Planting Strips/Triangles,no.jpg,https://www.austinparks.org/parks/
+206,-97.71746637,30.24250814,292,Central Maintenance Complex at Town Lake Metro Park,"2525 S Lakeshore Blvd., Austin, Texas 78741",78741,9.21592622,,Open_Restricted,Special,no.jpg,https://www.austinparks.org/parks/
+207,-97.71733317,30.2771554,135,Chestnut Pocket Park,"2207 E 16th St., Austin, Texas 78702",78702,0.62710122,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+208,-97.75578326,30.26049103,359,Dougherty Arts Center,"1110 Barton Springs Rd., Austin, Texas 78704",78704,2.3400354,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+209,-97.68921524,30.23899982,137,Civitan Neighborhood Park,"513 Vargas Rd., Austin, Texas 78741",78741,6.92328838,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+210,-97.63244722,30.30139142,139,Colony District Park,"7400 Loyola Ln., Austin, Texas 78724",78724,91.79060585,,Open,District,no.jpg,https://www.austinparks.org/parks/
+211,-97.6978925,30.24886297,140,Colorado River Park WIldlife Sanctuary,"5827 Levander Loop, Austin, Texas 78702",78702,42.51375225,,Open,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+212,-97.77122219,30.27530868,158,Eilers (Deep Eddy) Neighborhood Park,"401 Deep Eddy Ave., Austin, Texas 78703",78703,9.72136733,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+213,-97.72216223,30.19498599,181,Jimmy Clay Golf Course,"5400 Jimmy Clay Dr., Austin, Texas 78744",78744,203.1186441,,Open_Fee,Golf Course,no.jpg,https://www.austinparks.org/parks/
+214,-97.75059405,30.34507466,173,Gullett School Park,"3105 Hunt Trl., Austin, Texas 78757",78757,10.16790351,,Open,School,no.jpg,https://www.austinparks.org/parks/
+215,-97.64239942,30.26294028,212,John Trevino Jr. Metro Park at Morrison Ranch,"9501 FM 969 Rd., Austin, Texas 78725",78725,320.1550715,,Open_Restricted,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+216,-97.73302897,30.33533837,170,Hall/Goodnight Planting Strip,"6305 Hall St., Austin, Texas 78757",78757,1.22998981,,Closed,Planting Strips/Triangles,no.jpg,https://www.austinparks.org/parks/
+217,-97.61815748,30.35017361,176,Harris Branch Neighborhood Park,"11200 Farmhaven Rd., Austin, Texas 78754",78754,9.68473109,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+218,-97.75692168,30.2909852,253,Harris Triangle,"2409 Windsor Rd., Ausin, Texas 78703",78703,0.14748615,,Closed,Planting Strips/Triangles,no.jpg,https://www.austinparks.org/parks/
+219,-97.80760219,30.17382249,203,Mary Moore Searight Metro Park,"907 W Slaughter Ln., Austin, Texas 78748",78748,342.2698435,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+220,-97.77230142,30.31278947,204,Mayfield House,"3805 W 35th St., Austin, Texas 78703",78703,2.93926625,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+221,-97.76510114,30.26495838,291,Butler Shores at Town Lake Metro Park,"200 S Lamar Blvd., Austin, Texas, 78704",78704,29.52684639,,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+222,-97.69283581,30.33334923,303,Buttermilk Neighborhood Park,"7500 Blessing Ave., Austin, Texas 78752",78752,16.60250868,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+223,-97.74676312,30.24087577,120,Big Stacy Neighborhood Park,"700 E Live Oak St., Austin, Texas 78704",78704,4.45858012,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+224,-97.65344047,30.32831926,369,Big Walnut Creek Nature Preserve,"9221 E US 290 Hwy EB, Austin, Texas 78724",78724,43.73430771,,Closed,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+225,-97.69613517,30.33367921,130,Buttermilk Branch Greenbelt,"7501 Bethune Ave., Austin, Texas, 78752",78752,4.00384587,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+226,-97.80372768,30.18558988,150,Dittmar District Park,"1009 W Dittmar Rd., Austin, Texas 78748",78748,33.20699835,1985,Open,District,no.jpg,https://www.austinparks.org/parks/
+227,-97.84719348,30.19083635,121,Blowing Sink Research Management Area,"3705 Deer Ln., Austin, Texas, 78749",78749,190.1385811,2000,Closed,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+228,-97.76210988,30.3574758,151,Doss School Park,"7013 Northledge Dr., Austin, Texas 78731",78731,6.15077357,1975,Open,School,no.jpg,https://www.austinparks.org/parks/
+229,-97.67601401,30.31469268,152,Dottie Jordan Neighborhood Park,"2803 Loyola Ln., Austin, Texas 78723",78723,11.29269234,1973,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+230,-97.69951806,30.27709849,393,Evergreen Cemetery,"3300 E 12th St., Austin, Texas 78721",78721,29.7245103,1925,Open_Restricted,Cemetery,no.jpg,https://www.austinparks.org/parks/
+231,-97.70818907,30.29420114,243,"Burnett ""Blondie"" Pharr Tennis Center","4201 Brookview Rd. Austin, Texas 78722",78722,8.29025512,1941,Open,Special,no.jpg,https://www.austinparks.org/parks/
+232,-97.74555131,30.24370038,122,Blunn Creek Greenbelt,"1901 East Side Dr., Austin, Texas 78704",78704,13.33355865,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+233,-97.7376961,30.24553233,389,Blunn Creek Pocket Park,"1405 Kenwood Ave., Austin, Texas 78704",78704,1.25805215,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+234,-97.75162814,30.27389151,155,Duncan Neighborhood Park,"900 W 9th St., Austin, Texas 78701",78701,5.10832004,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+235,-97.71194182,30.268931,124,Boggy Creek Greenbelt,"1114 Nile St., Austin, Texas, 78702",78702,48.83035538,,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+236,-97.71156483,30.2660919,144,Conley-Guerrero Senior Activity Center,"808 Nile St., Austin, Texas 78702",78702,2.43782134,,Open,Special,no.jpg,https://www.austinparks.org/parks/
+237,-97.82660863,30.1924668,160,Ellen Higgins Pocket Park,"2711 Cameron Loop, Austin, Texas 78745",78745,0.69465178,,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+238,-97.71562752,30.29023586,353,Cherrywood Pocket Park,"1600 E 34th St., Austin, Texas 78722",78722,0.48516007,1940,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+239,-97.78854745,30.50577822,326,Brushy Creek Greenbelt,"16533 Along Creek Cv. Austin, Texas 78717",78717,56.77823039,2005,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+240,-97.84395464,30.18991898,134,Cherry Creek Neighborhood Park,"3403 Silk Oak Dr., Austin, Texas 78748",78748,10.37931073,2010,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+241,-97.75574133,30.27116606,301,Caldwell Treaty Oak Park,"507 Baylor St., Austin, Texas 78703",78703,0.30808588,1937,Open,Special,no.jpg,https://www.austinparks.org/parks/
+242,-97.78778896,30.36544079,128,Bull Creek District Park,"6701 Lakewood Dr., Austin, Texas 78731",78731,47.94079841,1971,Open,District,no.jpg,https://www.austinparks.org/parks/
+243,-97.73893902,30.19953924,162,Franklin Neighborhood Park,"4800 Copperbend Blvd., Austin, Texas 78744",78744,5.39725497,1975,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+244,-97.68689769,30.31904813,400,Earl J. Pomerleau Pocket Park,"1906 Patton Ln., Austin, Texas 78723",78723,1.93356558,2014,Planned,Pocket,no.jpg,https://www.austinparks.org/parks/
+245,-97.81016107,30.24394876,416,Gaines Park,"3918 S Mopac Expy Svrd., Austin, Texas 78746",78746,8.7469475,1991,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+246,-97.7544447,30.25575821,156,East Bouldin Creek Greenbelt,"901 Bouldin Ave., Austin, Texas 78704",78704,0.6412336,1983,Closed,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+247,-97.6739989,30.2631705,367,East Boggy Creek Greenbelt,"5609 Stuart Cir., Austin, Texas 78721",78721,75.02006414,2008,Open,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+248,-97.8008654,30.21356654,165,Garrison District Park,"6001 Manchaca Rd., Austin, Texas 78745",78745,39.44994319,1961,Open,District,no.jpg,https://www.austinparks.org/parks/
+249,-97.73312109,30.28944428,157,Eastwoods Neighborhood Park,"3001 Harris Park Ave., Austin, Texas 78705",78705,9.51643433,1929,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+250,-97.72631484,30.30630043,159,Elizabet Ney Museum,"304 E 44th St., Austin, Texas 78751",78751,2.56240468,1941,Open,Special,no.jpg,https://www.austinparks.org/parks/
+251,-97.63318015,30.1508746,403,Elroy Neighborhood Park,"7527 Elroy Rd., Austin, Texas 78617",78617,4.59664426,2014,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+252,-97.75211146,30.33345389,392,Austin Memorial Park Cemetery,"3000 Hancock Dr., Austin, Texas 78731",78731,83.98916801,1941,Open_Restricted,Cemetery,no.jpg,https://www.austinparks.org/parks/
+253,-97.75741626,30.18977482,316,Williamson Creek East Greenbelt,"4618 E William Cannon Dr., Austin, Texas 78744",78744,102.0160822,,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+254,-97.73165712,30.22097981,376,Country Club Creek Greenbelt,"3109 Burleson Rd., Austin, Texas 78741",78741,8.13526845,2009,Planned,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+255,-97.71486081,30.41280335,110,Balcones District Park,"12017 Amherst Dr., Austin, Texas 78759",78759,51.22786926,1979,Open,District,no.jpg,https://www.austinparks.org/parks/
+256,-97.77390152,30.32398708,213,Covert Park at Mount Bonnell,"3800 Mount Bonnell Rd., Austin, Texas 78731",78731,6.03357103,1972,Open,Special,no.jpg,https://www.austinparks.org/parks/
+257,-97.70485426,30.37743345,146,Cook School Park,"1505 Cripple Creek Dr., Austin, Texas 78758",78758,7.74103389,1976,Open,School,no.jpg,https://www.austinparks.org/parks/
+258,-97.72059648,30.28205386,101,Alamo Pocket Park,"2100 Alamo St., Austin, Texas  78722",78722,1.85393314,1975,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+259,-97.74785077,30.3020825,109,Bailey Neighborhood Park,"1101 W 33rd St., Austin, Texas 78705",78705,2.40212039,1935,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+260,-97.86634378,30.19781933,136,Circle C Ranch Metro Park,"6301 W Slaughter Ln., Austin, Texas 78739",78739,576.2722381,1985,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+261,-97.69691143,30.41426598,385,Alderbrook Pocket Park,"12444 Lamplight Village Ave., Austin, Texas 78758",78758,1.90788733,2011,Planned,Pocket,no.jpg,https://www.austinparks.org/parks/
+262,-97.76873628,30.37176504,112,Barrow Nature Preserve,"7515 Step Down Cv., Austin, Texas 78731",78731,7.03700011,1974,Open_Restricted,Nature Preserve,no.jpg,https://www.austinparks.org/parks/
+263,-97.67964626,30.31835269,102,Andrews School Park,"2400 Lehigh Dr., Austin, Texas 78723",78723,3.13108634,1967,Open,School,no.jpg,https://www.austinparks.org/parks/
+264,-97.64424698,30.26563006,141,Colorado/Walnut Greenbelt,"8001 Delwau Ln., Austin, Texas 78725",78725,100.2348321,1985,Closed,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+265,-97.68723947,30.28406308,405,Astor Place Pocket Park,"1716 Astor Pl., Austin, Texas 78721",78721,1.44200129,2013,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+266,-97.80608438,30.21166624,147,Cunningham School Park,"6213 Buffalo Pass, Austin, Texas 78745",78745,4.1574702,1977,Open,School,no.jpg,https://www.austinparks.org/parks/
+267,-97.65308398,30.30270829,221,Davis/White Northeast Neighborhood Park,"6705 Crystalbrook Dr., Austin, Texas 78724",78724,19.24900184,1982,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+268,-97.83225261,30.23326616,103,Archstone Greenbelt,"4308 Staggerbrush Rd., Austin, Texas 78749",78749,0.52908609,2003,Open_Restricted,Greenbelt,no.jpg,https://www.austinparks.org/parks/
+269,-97.78322081,30.25657143,116,Barton Hills School Park,"2009 Homedale Dr., Austin, Texas 78704",78704,3.76265944,1975,Open,School,no.jpg,https://www.austinparks.org/parks/
+270,-97.79067242,30.19938926,105,Armadillo Neighborhood Park,"910 Armadillo Rd., Austin, Texas 78745",78745,2.46494354,1987,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+271,-97.87253613,30.22741583,145,Convict Hill Quarry Neighborhood Park,"6511 Convict Hill Rd., Austin, Texas 78749",78749,2.80767211,1988,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+272,-97.89249122,30.32926313,143,Commons Ford Ranch Metro Park,"614 N Commons Ford Rd., Austin, Texas 78733",78733,211.7514043,1983,Open,Metropolitan,no.jpg,https://www.austinparks.org/parks/
+273,-97.65424887,30.3862668,377,Copperfield Neighborhood Park,"1425 E Yager Ln., Austin, Texas 78753",78753,7.25415357,1996,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+274,-97.68628348,30.36552399,327,Brownie Pocket Park,"10000 Brownie Dr., Austin, Texas 78753",78753,1.57095695,2005,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+275,-97.73208754,30.34110205,125,Brentwood Neighborhood Park,"6710 Arroyo Seco, Austin, Texas 78757",78757,8.22296073,,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+276,-97.84102821,30.19482418,148,Davis Hill Neighborhood Park,"3402 Davis Ln., Austin, Texas 78745",78745,8.16963206,1990,Open_Restricted,Neighborhood,no.jpg,https://www.austinparks.org/parks/
+277,-97.76713265,30.33193743,104,Brush Square Triangle,"4621 Lake Vw., Austin, Texas 78731",78731,0.73053155,,Open,Planting Strips/Triangles,no.jpg,https://www.austinparks.org/parks/
+278,-97.72873454,30.26067278,142,Comal Pocket Park,"300 Comal St., Austin, Texas 78702",78702,0.9713417,1952,Open,Pocket,no.jpg,https://www.austinparks.org/parks/
+279,-97.76825257,30.21484198,117,Battle Bend Neighborhood Park,"121 Sheraton Ave., Austin, Texas 78745",78745,4.75166725,1998,Open,Neighborhood,no.jpg,https://www.austinparks.org/parks/
